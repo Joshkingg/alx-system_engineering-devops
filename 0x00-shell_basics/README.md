@@ -1,1 +1,1 @@
-some readme
+This folder describes what the scripts does
